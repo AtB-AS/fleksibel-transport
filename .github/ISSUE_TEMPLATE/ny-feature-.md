@@ -3,7 +3,7 @@ name: 'Ny Feature '
 about: Bruk denne som mal for alle issues
 title: ''
 labels: ''
-assignees: jahnrohme
+assignees: ''
 
 ---
 
